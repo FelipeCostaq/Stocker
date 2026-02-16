@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Stocker.Models;
 
 namespace Stocker.Data
 {

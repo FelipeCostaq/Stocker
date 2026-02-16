@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000db237abfc802ff6c3ac043bfbada8882311fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb281c21a8f9912cf7713803508647fe04a15fa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
