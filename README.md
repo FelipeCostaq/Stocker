@@ -2,7 +2,7 @@
 API para cadastro de produtos feito usando arquitetura Minimal API. Desenvolvida em C# com ASP.NET Core e Entity Framework.
 
 # Imagem Diagrama UML
-<img height="425" width="800" src="https://github.com/FelipeCostaq/Stocker/blob/main/UML_Stocker.png?raw=true" alt="Imagem do Portfolio">
+<img height="425" width="800" src="https://github.com/FelipeCostaq/Stocker/blob/main/UML.png?raw=true" alt="Imagem do Portfolio">
 
 
 ## Tecnologias Utilizadas
