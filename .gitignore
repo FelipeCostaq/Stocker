@@ -418,4 +418,5 @@ FodyWeavers.xsd
 *.msp
 
 app.db
+.vs/
 .vs
